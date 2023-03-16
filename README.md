@@ -1,4 +1,4 @@
-# docker-discord-bot
+# Docker-Discord-Bot
 Discort music bot Dockerized
 
 ## What does it do?
